@@ -1,4 +1,4 @@
-# PSET 1
+# REPOSITÓRIO uvv_bd1_si1na
 - **Aluna:** Bárbara Moro Caetano
 - **Turma:** SI1NA
 - **Professor:** Abrantes Araújo Silva Filho
