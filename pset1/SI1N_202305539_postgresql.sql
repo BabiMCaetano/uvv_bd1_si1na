@@ -31,7 +31,7 @@ CREATE DATABASE uvv
 COMMENT ON DATABASE uvv IS 'Banco de Dados UVV criado para as atividades do PSET1';
 
 -- Conectar ao banco criado
-\c uvv
+\c uvv;
 
 -- Criar schema lojas
 CREATE SCHEMA lojas AUTHORIZATION barbara_caetano;
